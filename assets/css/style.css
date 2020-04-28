@@ -1,0 +1,58 @@
+.bg-bernie-light-blue {
+    background-color: #2b9cd9;
+}
+
+.bg-bernie-blue {
+    background-color: #00324d;
+}
+
+.bg-nmu-yellow {
+    background-color: #fcb73f;
+}
+
+.nmu-yellow {
+    color: #fcb73f;
+}
+
+.bg-nmu-red {
+    background-color: #e23844;
+}
+
+.bg-nmu-blue {
+    background-color: #405288;
+}
+
+body {
+    font-family: Lato, sans-serif;
+}
+
+strong {
+
+    font-weight: 600;
+}
+
+.home-jumbotron {
+    color: white;
+    border-radius: 0;
+    font-family: Oswald, sans-serif;
+    font-weight: 300;
+}
+
+.home-jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.home-jumbotron .btn-outline-light {
+    color: white;
+    border-color: white;
+}
+
+.home-jumbotron .btn-outline-light:hover {
+    color: #00324d;
+}
+
+.home-jumbotron a {
+    color: #fcb73f;
+    font-weight: 600;
+}

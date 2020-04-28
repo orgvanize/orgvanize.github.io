@@ -12,14 +12,13 @@ layout: default
         </div>
     </div>
 </div>
-<div class="jumbotron mb-0 bg-bernie-light-blue home-jumbotron" style="display: none;">
-    
+<div class="jumbotron mb-0 bg-bernie-light-blue home-jumbotron">
+    <h3><strong>VANGUARD</strong> is an independent group of Bernie 2020 volunteers with experience in DNC VoteBuilder/VAN. We'd like to continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
 </div>
 <div class="row mr-0">
     <div class="col-md-8 p-5 bg-light">
-        <h3 style="font-family: Oswald;" class="mb-5"><strong>VANGUARD</strong> is an independent group of Bernie 2020 volunteers with experience in DNC VoteBuilder/VAN. We'd like to continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
         <h5 class="font-weight-bold">We can help support campaign staff by:</h5>
-        <ul class="mb-5">
+        <ul>
             <li>Performing one-step local searches</li>
             <li>Creating localized phonebanking lists</li>
             <li>Cutting turf for canvassing</li>
@@ -40,5 +39,5 @@ layout: default
 </div>
 <div class="jumbotron mb-0 home-jumbotron bg-bernie-light-blue">
     <h3>We're actively looking for progressive campaigns to support in 2020 primary and general elections.</h3>
-    <h3>If you'd like to discuss further, <a href="#">please get in touch.</a></h3>
+    <h3>If you'd like to discuss further, <a href="#" class="nmu-yellow">please get in touch.</a></h3>
 </div>
