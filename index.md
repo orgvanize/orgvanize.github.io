@@ -17,7 +17,7 @@ layout: default
 </div>
 <div class="row mr-0">
     <div class="col-md-8 p-5 bg-light">
-        <h3 style="font-family: Oswald;" class="mb-5"><strong>VANGUARD</strong> is an independent group of Bernie 2020 volunteers with experience in DNC VoteBuilder/VAN. We'd like to continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
+        <h3 style="font-family: Oswald;" class="mb-5"><strong>VANGUARD</strong> is an independent group of former Bernie 2020 volunteers with experience in DNC VoteBuilder/VAN. We'd like to continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
         <h5 class="font-weight-bold">We can help support campaign staff by:</h5>
         <ul class="mb-5">
             <li>Performing one-step local searches</li>
