@@ -5,7 +5,7 @@ layout: default
     <div class="row">
         <div class="col-md-9">
             <h1 class="display-3">VANGUARD</h1>
-            <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS.</h1>
+            <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS</h1>
         </div>
         <div class="col-md-3 text-right">
             <button type="button" class="btn btn-outline-light btn-lg">Contact Us</button>
