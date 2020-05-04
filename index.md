@@ -28,7 +28,7 @@ layout: default
         </ul>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
-        <h5 class="font-weight-bold">The Bernie 2020 VAN volunteer team:</h5>
+        <h5 class="font-weight-bold">The Bernie 2020 VANGUARD volunteer team:</h5>
         <ul>
             <li>Made over 16,000 one-step VPB lists</li>
             <li>Made over 2,500 multi-step VPB lists</li>
