@@ -8,7 +8,9 @@ layout: default
             <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS</h1>
         </div>
         <div class="col-4 col-md-3 text-right">
-            <button type="button" class="btn btn-outline-light btn-lg">Contact Us</button>
+            <form action="mailto:contact@vanguardcampaign.org">
+                <button type="submit" class="btn btn-outline-light btn-lg">Contact Us</button>
+            </form>
         </div>
     </div>
 </div>
@@ -40,5 +42,5 @@ layout: default
 </div>
 <div class="jumbotron mb-0 home-jumbotron bg-bernie-light-blue">
     <h3>We're actively looking for progressive campaigns to support in 2020 primary and general elections.</h3>
-    <h3>If you'd like to discuss further, <a href="#">please get in touch.</a></h3>
+    <h3>If you'd like to discuss further, <a href="mailto:contact@vanguardcampaign.org">please get in touch.</a></h3>
 </div>
