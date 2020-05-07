@@ -1,3 +1,31 @@
+
+@media (max-width: 768px) {
+    .home-jumbotron .display-3 {
+        font-size: 2.25rem;
+    }
+
+    .home-jumbotron .display-4 {
+        font-size: 1.25rem;
+    }
+
+    .home-jumbotron .btn-lg {
+        padding: .5rem .5rem;
+        font-size: 0.9rem;
+        line-height: 1;
+        border-radius: .2rem;
+    }
+}
+
+@media (max-width: 350px) {
+    .home-jumbotron .display-3 {
+        font-size: 2rem;
+    }
+
+    .home-jumbotron .display-4 {
+        font-size: 1rem;
+    }
+}
+
 .bg-bernie-light-blue {
     background-color: #2b9cd9;
 }
@@ -27,7 +55,6 @@ body {
 }
 
 strong {
-
     font-weight: 600;
 }
 
