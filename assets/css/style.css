@@ -83,3 +83,17 @@ strong {
     color: #fcb73f;
     font-weight: 600;
 }
+
+.testimonial-container {
+    border-top: 1px solid #999;
+    padding: 10px;
+}
+
+.testimonial {
+    font-style: italic;
+}
+
+.testimonial-attribution {
+    text-align: right;
+    font-weight: bold;
+}
