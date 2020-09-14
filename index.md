@@ -29,6 +29,8 @@ layout: default
             <li>Performing multi-step local searches to create phonebanking lists targeting specific constituencies</li>
         </ul>
         <div class="testimonial-container">
+	    <q class="testimonial">Vanguard was an essential component of AOC's data strategy. They were timely, professional, and provided a trustworthy infrastructure for data volunteering. They served as a huge force multiplier by cutting turf, building lists, and delivering just in time data to our field team. Vanguard offered a passionate group of progressive volunteers that could help with minimal intervention. Their willingness to build processes and work intimately with the data team was hugely beneficial.</q>
+	    <p class="testimonial-attribution"> &mdash; Nick Hara, Data Director, Alexandria Ocasio-Cortez for Congress</p>
             <q class="testimonial">The Vanguard team was essential to our data needs on the Bowman For Congress campaign. They helped clean, organize, and manage data. We could not have done this work without their help. They jumped on as the campaign was taking off, and became reliable team members. I hope to work with them in the future. Their talent and efforts were greatly appreciated!</q>
             <p class="testimonial-attribution"> &mdash; Bilal Tahir, Field Director, Bowman For Congress</p>
         </div>
