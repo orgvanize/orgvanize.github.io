@@ -30,7 +30,7 @@ layout: default
         </ul>
         <div class="testimonial-container">
             <q class="testimonial">The Vanguard team was essential to our data needs on the Bowman For Congress campaign. They helped clean, organize, and manage data. We could not have done this work without their help. They jumped on as the campaign was taking off, and became reliable team members. I hope to work with them in the future. Their talent and efforts were greatly appreciated!</q>
-            <p class="testimonial-attribution"> - Bilal Tahir, Field Director, Bowman For Congress</p>
+            <p class="testimonial-attribution"> &mdash; Bilal Tahir, Field Director, Bowman For Congress</p>
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
