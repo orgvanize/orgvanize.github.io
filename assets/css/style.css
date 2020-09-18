@@ -97,3 +97,7 @@ strong {
     text-align: right;
     font-weight: bold;
 }
+
+a.btn-outline-light {
+    font-weight: normal;
+}

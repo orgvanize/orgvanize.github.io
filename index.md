@@ -8,9 +8,7 @@ layout: default
             <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS</h1>
         </div>
         <div class="col-4 col-md-3 text-right">
-            <form action="mailto:contact@vanguardcampaign.org">
-                <button type="submit" class="btn btn-outline-light btn-lg">Contact Us</button>
-            </form>
+            <a href="mailto:contact@vanguardcampaign.org" class="btn btn-outline-light btn-lg">Contact Us</a>
         </div>
     </div>
 </div>
