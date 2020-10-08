@@ -34,7 +34,7 @@ layout: default
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
-        <h5 class="font-weight-bold">The <a href="https://medium.com/@berniealums/taking-on-trump-and-beyond-learnings-from-bernie-2020-national-organizing-staff-31f274ace92b" target="_blank">Bernie 2020 VANGUARD</a> volunteer team:</h5>
+        <h5 class="font-weight-bold">The <a href="https://web.archive.org/web/20200520011150/https://medium.com/@berniealums/taking-on-trump-and-beyond-learnings-from-bernie-2020-national-organizing-staff-31f274ace92b" target="_blank">Bernie 2020 VANGUARD</a> volunteer team:</h5>
         <ul>
             <li>Made over 16,000 one-step VPB lists</li>
             <li>Made over 2,500 multi-step VPB lists</li>
