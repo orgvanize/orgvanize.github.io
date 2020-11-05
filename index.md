@@ -34,6 +34,18 @@ layout: default
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
+        <h5 class="font-weight-bold">The 2020 VANGUARD Campaign Corps volunteer team:</h5>
+        <ul>
+            <li>Provided data services to over 16 campaigns</li>
+            <li>Cut canvassing turfs for over 1,495 precincts</li>
+            <li>Generated over 638 reports / lists for GOTV lit drops</li>
+            <li>Developed 6 custom automation systems for campaigns from scratch</li>
+            <li>Performed 321 bulk uploads</li>
+            <li>Performed 8,396 lines of data entry</li>
+            <li>Created a 606 line database from scratch</li>
+            <li>Generated lists with over 9,959 lines of data</li>
+            <li>Performed sophisticated data analysis with Votebuilder and other SW tools with over 233 lines of data</li>
+        </ul>
         <h5 class="font-weight-bold">The <a href="https://web.archive.org/web/20200520011150/https://medium.com/@berniealums/taking-on-trump-and-beyond-learnings-from-bernie-2020-national-organizing-staff-31f274ace92b" target="_blank">Bernie 2020 VANGUARD</a> volunteer team:</h5>
         <ul>
             <li>Made over 16,000 one-step VPB lists</li>
