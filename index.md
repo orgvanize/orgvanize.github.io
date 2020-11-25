@@ -31,6 +31,8 @@ layout: default
 	    <p class="testimonial-attribution"> &mdash; Nick Hara, Data Director, Alexandria Ocasio-Cortez for Congress</p>
             <q class="testimonial">The Vanguard team was essential to our data needs on the Bowman For Congress campaign. They helped clean, organize, and manage data. We could not have done this work without their help. They jumped on as the campaign was taking off, and became reliable team members. I hope to work with them in the future. Their talent and efforts were greatly appreciated!</q>
             <p class="testimonial-attribution"> &mdash; Bilal Tahir, Field Director, Bowman For Congress</p>
+	    <q class="testimonial">The Mike Siegel for Congress campaign knocked 75,000 doors in less than a month, and we absolutely could not have done it without Vanguard. We also had a robust vote tripling program, which likewise wouldn't have been possible without Vanguard's help. They were responsible for cutting thousands of turfs for us, for cleaning and sorting all of our vote tripling data, and did both tasks reliably and with constant professionalism. This talented group of volunteers is an incredible asset to any campaign or organization that is lucky enough to work with them!</q>
+	    <p class="testimonial-attribution"> &mdash; Shana Gallagher, Organizing Director, Mike Siegel for Congress</p>
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
