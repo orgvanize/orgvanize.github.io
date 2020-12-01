@@ -33,6 +33,8 @@ layout: default
             <p class="testimonial-attribution"> &mdash; Bilal Tahir, Field Director, Bowman For Congress</p>
 	    <q class="testimonial">The Mike Siegel for Congress campaign knocked 75,000 doors in less than a month, and we absolutely could not have done it without Vanguard. We also had a robust vote tripling program, which likewise wouldn't have been possible without Vanguard's help. They were responsible for cutting thousands of turfs for us, for cleaning and sorting all of our vote tripling data, and did both tasks reliably and with constant professionalism. This talented group of volunteers is an incredible asset to any campaign or organization that is lucky enough to work with them!</q>
 	    <p class="testimonial-attribution"> &mdash; Shana Gallagher, Organizing Director, Mike Siegel for Congress</p>
+	    <q class="testimonial">Vanguard became my go-to partner throughout my work. Their volunteers quickly responded to requests and worked creatively to solve problems, such as creating an automated volunteer sign-up system that saved me countless hours of follow-up work. Vanguard approached the work humbly and thoughtfully, always willing to troubleshoot issues and receive feedback. I would recommend Vanguard to anyone working in the progressive field needing technical and creative assistance on field and digital work!</q>
+	    <p class="testimonial-attribution"> &mdash; Elias Newman, former Digital Director, Rashida Tlaib Campaign</p>
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
