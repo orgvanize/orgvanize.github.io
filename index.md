@@ -5,7 +5,7 @@ layout: default
     <div class="row">
         <div class="col-8 col-md-9">
             <h1 class="display-3">Vanguard</h1>
-            <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS</h1>
+            <h1 class="display-4 font-weight-normal">Campaign Corps</h1>
         </div>
         <div class="col-4 col-md-3 text-right">
             <a href="mailto:contact@vanguardcampaign.org" class="btn btn-outline-light btn-lg">Contact Us</a>
