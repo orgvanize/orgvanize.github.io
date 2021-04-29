@@ -4,7 +4,7 @@ layout: default
 <div class="jumbotron home-jumbotron mb-0 pt-4 pb-4 bg-bernie-blue">
     <div class="row">
         <div class="col-8 col-md-9">
-            <h1 class="display-3">VANGUARD</h1>
+            <h1 class="display-3">Vanguard</h1>
             <h1 class="display-4 font-weight-normal">CAMPAIGN CORPS</h1>
         </div>
         <div class="col-4 col-md-3 text-right">
@@ -17,7 +17,7 @@ layout: default
 </div>
 <div class="row mr-0">
     <div class="col-md-8 p-5 bg-light">
-        <h3 style="font-family: Oswald;" class="mb-5"><strong>VANGUARD</strong> is an independent group of former Bernie 2020 volunteers with experience in DNC VoteBuilder. We continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
+        <h3 style="font-family: Oswald;" class="mb-5"><strong>Vanguard</strong> is an independent group of former Bernie 2020 volunteers with experience in DNC VoteBuilder. We continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
         <h5 class="font-weight-bold">We can help support campaign staff by:</h5>
         <ul class="mb-5">
             <li>Performing one-step local searches</li>
@@ -40,7 +40,7 @@ layout: default
         </div>
     </div>
     <div class="col-md-4 bg-nmu-yellow text-white p-5">
-        <h5 class="font-weight-bold">The 2020 VANGUARD Campaign Corps volunteer team:</h5>
+        <h5 class="font-weight-bold">The 2020 Vanguard Campaign Corps volunteer team:</h5>
         <ul>
             <li>Provided data services to over 16 campaigns</li>
             <li>Cut canvassing turfs for over 1,495 precincts</li>
@@ -52,7 +52,7 @@ layout: default
             <li>Generated lists with over 9,959 lines of data</li>
             <li>Performed sophisticated data analysis with Votebuilder and other SW tools with over 233 lines of data</li>
         </ul>
-        <h5 class="font-weight-bold">The <a href="https://web.archive.org/web/20200520011150/https://medium.com/@berniealums/taking-on-trump-and-beyond-learnings-from-bernie-2020-national-organizing-staff-31f274ace92b" target="_blank">Bernie 2020 VANGUARD</a> volunteer team:</h5>
+        <h5 class="font-weight-bold">The <a href="https://web.archive.org/web/20200520011150/https://medium.com/@berniealums/taking-on-trump-and-beyond-learnings-from-bernie-2020-national-organizing-staff-31f274ace92b" target="_blank">Bernie 2020 Vanguard</a> volunteer team:</h5>
         <ul>
             <li>Made over 16,000 one-step VPB lists</li>
             <li>Made over 2,500 multi-step VPB lists</li>
