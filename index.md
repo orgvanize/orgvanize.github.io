@@ -17,7 +17,7 @@ layout: default
 </div>
 <div class="row mr-0">
     <div class="col-md-8 p-5 bg-light">
-        <h3 style="font-family: Oswald;" class="mb-5"><strong>Vanguard</strong> is an independent group of former Bernie 2020 volunteers with experience in DNC VoteBuilder. We continue our volunteer work by offering our experience, brainpower, and time to help progressive candidates with virtual and in-person GOTV efforts.</h3>
+        <h3 style="font-family: Oswald;" class="mb-5"><strong>Vanguard</strong>Vanguard is an independent group of volunteers with experience in distributed asynchronous data organizing. We offer our experience and volunteer our time to support transformative progressive campaigns’ field operations. Vanguard originated as part of the Bernie 2020 presidential campaign and continues to work with numerous national and local candidates and organizations.</h3>
         <h5 class="font-weight-bold">We can help support campaign staff by:</h5>
         <ul class="mb-5">
             <li>Performing one-step local searches</li>
