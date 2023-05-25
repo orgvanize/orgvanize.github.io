@@ -20,11 +20,9 @@ layout: default
         <h3 style="font-family: Oswald;" class="mb-5"><strong>Vanguard</strong> is an independent group of volunteers with experience in distributed asynchronous data organizing. We offer our experience and volunteer our time to support transformative progressive campaigns’ field operations. Vanguard originated as part of the Bernie 2020 presidential campaign and continues to work with numerous national and local candidates and organizations.</h3>
         <h5 class="font-weight-bold">We can help support campaign staff by:</h5>
         <ul class="mb-5">
-            <li>Performing one-step local searches</li>
-            <li>Creating localized phonebanking lists</li>
-            <li>Cutting turf for canvassing</li>
-            <li>Creating PDF reports to assist with virtual GOTV</li>
-            <li>Performing multi-step local searches to create phonebanking lists targeting specific constituencies</li>
+            <li>Providing advice on VAN setup and processes such as turf cutting</li>
+            <li>Semi-automating data integration workflows (e.g., MiniVAN, Spoke, ThruTalk)</li>
+            <li>Coordinating and training in support of turf cutting for canvassing</li>
         </ul>
         <div class="testimonial-container">
             <q class="testimonial">The Vanguard team was essential to our data needs on the Bowman For Congress campaign. They helped clean, organize, and manage data. We could not have done this work without their help. They jumped on as the campaign was taking off, and became reliable team members. I hope to work with them in the future. Their talent and efforts were greatly appreciated!</q>
