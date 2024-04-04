@@ -53,6 +53,6 @@ layout: default
     </div>
 </div>
 <div class="jumbotron mb-0 home-jumbotron bg-bernie-light-blue">
-    <h3>We're actively looking for progressive campaigns to support in 2023.</h3>
+    <h3>We're actively looking for progressive campaigns to support in 2024.</h3>
     <h3>If you'd like to discuss further, <a href="mailto:contact@vanguardcampaign.org">please get in touch.</a></h3>
 </div>
